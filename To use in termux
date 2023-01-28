@@ -1,0 +1,5 @@
+To open new .js file
+--> vim filename.js;
+
+To run .js file
+--> node filename.js;
