@@ -1,5 +1,9 @@
-To open new .js file
+Installing
+--> apt install vim;
+--> apt install nodejs;
+
+To open new (.js) file
 --> vim filename.js;
 
-To run .js file
+To run (.js) file
 --> node filename.js;
