@@ -1,8 +1,14 @@
 //array defining 
-let array=[1,2,3,4,5,6,7]
+let array=[1,2,3,4,5,6,7];
 
-//Slicing from index no 
-let splar=array.splice(2,4,8)
-console.log(splar)
-console.log(array)
+//Slicing from (index no, no.of element,to add element)
+let splar=array.splice(2,4,8);
+console.log(splar);
+console.log(array);
+
+//to slice in btwn indexs(start,end)
+array.slice(2,4);
+
+//to know length
+comsole.log(array.length)
 
